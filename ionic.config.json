@@ -1,0 +1,7 @@
+{
+  "name": "prayer-times-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

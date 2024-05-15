@@ -1,0 +1,25 @@
+{
+  "name": "prayer-times-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.0.0",
+    "@capacitor/app": "6.0.0",
+    "@capacitor/core": "6.0.0",
+    "@capacitor/haptics": "6.0.0",
+    "@capacitor/keyboard": "6.0.0",
+    "@capacitor/status-bar": "6.0.0",
+    "@nuxtjs/axios": "^5.13.6",
+    "hijri-date": "^0.2.2",
+    "nuxt": "^2.15.7"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "6.0.0"
+  }
+}
